@@ -1,6 +1,6 @@
 # OR Helper
 
-Helper functions to feed pandas DataFrames into Google OR-Tools for linear programming, integer programm, and min/max flow problems.  
+Helper functions to feed pandas DataFrames into Google OR-Tools for linear programming, integer programming, and min/max flow problems.  
 
 The purpose is to improve interoperability between pandas DataFrames or Excel spreadsheets and OR-Tool, along with additional features
 such as constraint naming and handling infinity conversions.
